@@ -1,0 +1,159 @@
+id,name,region_id
+0,Switzerland,9
+1,Iceland,9
+2,Denmark,9
+3,Norway,9
+4,Finland,9
+5,Netherlands,9
+6,Sweden,9
+7,Austria,9
+8,Luxembourg,9
+9,Ireland,9
+10,Belgium,9
+11,United Kingdom,9
+12,Germany,9
+13,France,9
+14,Spain,9
+15,Malta,9
+16,Italy,9
+17,North Cyprus,9
+18,Cyprus,9
+19,Portugal,9
+20,Greece,9
+21,Canada,5
+22,United States,5
+23,New Zealand,0
+24,Australia,0
+25,Israel,4
+26,United Arab Emirates,4
+27,Oman,4
+28,Qatar,4
+29,Saudi Arabia,4
+30,Kuwait,4
+31,Bahrain,4
+32,Libya,4
+33,Algeria,4
+34,Turkey,4
+35,Jordan,4
+36,Morocco,4
+37,Lebanon,4
+38,Tunisia,4
+39,Palestinian Territories,4
+40,Iran,4
+41,Iraq,4
+42,Egypt,4
+43,Yemen,4
+44,Syria,4
+45,Costa Rica,3
+46,Mexico,3
+47,Brazil,3
+48,Venezuela,3
+49,Panama,3
+50,Chile,3
+51,Argentina,3
+52,Uruguay,3
+53,Colombia,3
+54,Suriname,3
+55,Trinidad and Tobago,3
+56,El Salvador,3
+57,Guatemala,3
+58,Ecuador,3
+59,Bolivia,3
+60,Paraguay,3
+61,Nicaragua,3
+62,Peru,3
+63,Jamaica,3
+64,Dominican Republic,3
+65,Honduras,3
+66,Haiti,3
+67,Singapore,6
+68,Thailand,6
+69,Malaysia,6
+70,Indonesia,6
+71,Vietnam,6
+72,Philippines,6
+73,Laos,6
+74,Myanmar,6
+75,Cambodia,6
+76,Czech Republic,1
+77,Uzbekistan,1
+78,Slovakia,1
+79,Moldova,1
+80,Kazakhstan,1
+81,Slovenia,1
+82,Lithuania,1
+83,Belarus,1
+84,Poland,1
+85,Croatia,1
+86,Russia,1
+87,Kosovo,1
+88,Turkmenistan,1
+89,Estonia,1
+90,Kyrgyzstan,1
+91,Azerbaijan,1
+92,Montenegro,1
+93,Romania,1
+94,Serbia,1
+95,Latvia,1
+96,Macedonia,1
+97,Albania,1
+98,Bosnia and Herzegovina,1
+99,Hungary,1
+100,Tajikistan,1
+101,Ukraine,1
+102,Armenia,1
+103,Georgia,1
+104,Bulgaria,1
+105,Taiwan,2
+106,Japan,2
+107,South Korea,2
+108,Hong Kong,2
+109,China,2
+110,Mongolia,2
+111,Mauritius,8
+112,Nigeria,8
+113,Zambia,8
+114,Somaliland region,8
+115,Mozambique,8
+116,Lesotho,8
+117,Swaziland,8
+118,South Africa,8
+119,Ghana,8
+120,Zimbabwe,8
+121,Liberia,8
+122,Sudan,8
+123,Congo (Kinshasa),8
+124,Ethiopia,8
+125,Sierra Leone,8
+126,Mauritania,8
+127,Kenya,8
+128,Djibouti,8
+129,Botswana,8
+130,Malawi,8
+131,Cameroon,8
+132,Angola,8
+133,Mali,8
+134,Congo (Brazzaville),8
+135,Comoros,8
+136,Uganda,8
+137,Senegal,8
+138,Gabon,8
+139,Niger,8
+140,Tanzania,8
+141,Madagascar,8
+142,Central African Republic,8
+143,Chad,8
+144,Guinea,8
+145,Ivory Coast,8
+146,Burkina Faso,8
+147,Rwanda,8
+148,Benin,8
+149,Burundi,8
+150,Togo,8
+151,Bhutan,7
+152,Pakistan,7
+153,Bangladesh,7
+154,India,7
+155,Nepal,7
+156,Sri Lanka,7
+157,Afghanistan,7
